@@ -11,7 +11,7 @@
   },
   {
     "owner_id":3,
-    "related_id":[1,2],
+    "related_id":[1],
     "id":2
   }
 ]
